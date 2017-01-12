@@ -1,0 +1,13 @@
+#app-container {
+  font-family: "Geneva";
+}
+
+.social {
+  font-size: 10px;
+  color: grey;
+  font-weight: bold;
+}
+.icons {
+  border-bottom: 5px black solid;
+  padding-bottom: 5px;
+}

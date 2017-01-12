@@ -1,0 +1,23 @@
+
+
+.app-container {
+  font-family: "Avenir";
+  max-width: 300px;
+}
+.item-home {
+  list-style: none;
+  color: #66CC99;
+  border: 1px slategrey solid;
+  padding: 8px;
+}
+
+.item {
+  list-style: none;
+  border-left: 1px slategrey solid;
+  border-right: 1px slategrey solid;
+  border-bottom: 1px slategrey solid;
+  padding: 8px;
+}
+.header {
+  margin-left: 40px;
+}

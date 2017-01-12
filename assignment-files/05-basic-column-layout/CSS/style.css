@@ -1,0 +1,34 @@
+#app-container {
+  font-family: "Helvetica Neue";
+  
+}
+
+
+
+
+.title {
+  background-color: #004;
+  color: white;
+
+
+}
+
+.column {
+  list-style: none;
+
+
+}
+
+.content {
+  font-weight: bold;
+
+}
+
+.fade {
+  color: lightgrey;
+  font-size: 10px;
+}
+
+.pointer {
+  color: #DE5233;
+}

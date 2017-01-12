@@ -1,0 +1,42 @@
+
+.title-text {
+  text-align: left;
+  font-family: "Geneva";
+  margin-bottom: 0;
+}
+
+.app-container {
+  background-color: #FBF9F1;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.main-text {
+  width: 350px;
+  margin-left: 60px;
+  line-height: 1.25;
+  font: "Georgia";
+  font-weight: 100;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.hyper {
+  color: blue;
+}
+.hello {
+  font-weight: 200;
+}
+.underline {
+  font-size: 20px;
+  text-decoration: underline;
+  font-weight: lighter;
+}
+
+.mono {
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  font-weight: 100;
+  font-family: "Geneva";
+  padding: 3px 3px 3px 3px;
+}
