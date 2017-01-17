@@ -1,8 +1,11 @@
+
+
 #app-container {
-  font-family: "Futura"
+  box-sizing: border-box;
+  font-family: "Futura";
 }
 
-.header{
+.header {
   font-weight: 400;
   padding-bottom: 10px;
 }
@@ -15,23 +18,29 @@
   color: grey;
   font-weight: lighter;
 }
-
+.nospace {
+  margin: 0;
+  padding: 0;
+}
 .choices {
     background-color: rgb(205, 92, 92);
     color: white;
-    padding: 8px;
     display: inline-block;
-    margin-right: 5px;
+    padding: 8px;
+    margin-right: 4px;
 }
 
 .search {
   list-style: none;
-  display: inline-block;
-  color: lightgrey;
-  padding-top: 0px;
-  padding-bottom: 10px;
-  border-bottom: 2px lightgrey solid;
-  margin: 0px 10px 10px 40px;
-  padding-right: 10px;
+  color: grey;
+  font-weight: medium;
+  text-decoration: none;
+  padding-bottom: 4px;
+  border-bottom: 2px slategrey solid;
+  margin: 0px;
   max-width: 100%;
+  margin-left: 10px;
+
+
+display: inline-block;
 }
